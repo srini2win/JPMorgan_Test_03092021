@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <interface id="1" language="java" name="com.jpm.investment.trade.commands.TradeCalculatorCommand" 
+    project="JPMTradeTest" 
+    file="/JPMTradeTest/src/main/java/com/jpm/investment/trade/commands/TradeCalculatorCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="217" x="475" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" language="java" name="com.jpm.investment.trade.commands.BuyNewCommand" project="JPMTradeTest" 
+    file="/JPMTradeTest/src/main/java/com/jpm/investment/trade/commands/BuyNewCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="151" x="1192" y="138"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.jpm.investment.trade.commands.BuyNewReversalCommand" project="JPMTradeTest" 
+    file="/JPMTradeTest/src/main/java/com/jpm/investment/trade/commands/BuyNewReversalCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="178" x="168" y="138"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.jpm.investment.trade.commands.SellCancelCommand" project="JPMTradeTest" 
+    file="/JPMTradeTest/src/main/java/com/jpm/investment/trade/commands/SellCancelCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="151" x="1383" y="138"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.jpm.investment.trade.commands.BuyCancelCommand" project="JPMTradeTest" 
+    file="/JPMTradeTest/src/main/java/com/jpm/investment/trade/commands/BuyCancelCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="151" x="386" y="138"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.jpm.investment.trade.commands.BuyAmendReversalCommand" project="JPMTradeTest" 
+    file="/JPMTradeTest/src/main/java/com/jpm/investment/trade/commands/BuyAmendReversalCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="193" x="577" y="138"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.jpm.investment.trade.commands.DiffQuantityCommand" project="JPMTradeTest" 
+    file="/JPMTradeTest/src/main/java/com/jpm/investment/trade/commands/DiffQuantityCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="205" x="732" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.jpm.investment.trade.commands.QuantityCommand" project="JPMTradeTest" 
+    file="/JPMTradeTest/src/main/java/com/jpm/investment/trade/commands/QuantityCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="217" x="732" y="-176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.jpm.investment.trade.commands.SellNewReversalCommand" project="JPMTradeTest" 
+    file="/JPMTradeTest/src/main/java/com/jpm/investment/trade/commands/SellNewReversalCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="178" x="1574" y="138"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.jpm.investment.trade.commands.SellAmendReversalCommand" 
+    project="JPMTradeTest" 
+    file="/JPMTradeTest/src/main/java/com/jpm/investment/trade/commands/SellAmendReversalCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="193" x="1792" y="138"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.jpm.investment.trade.commands.SellNewCommand" project="JPMTradeTest" 
+    file="/JPMTradeTest/src/main/java/com/jpm/investment/trade/commands/SellNewCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="151" x="810" y="138"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.jpm.investment.trade.commands.BuyAmendCommand" project="JPMTradeTest" 
+    file="/JPMTradeTest/src/main/java/com/jpm/investment/trade/commands/BuyAmendCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="151" x="2025" y="138"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.jpm.investment.trade.commands.SellAmendCommand" project="JPMTradeTest" 
+    file="/JPMTradeTest/src/main/java/com/jpm/investment/trade/commands/SellAmendCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="151" x="1001" y="138"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.jpm.investment.trade.commands.SumQuantityCommand" project="JPMTradeTest" 
+    file="/JPMTradeTest/src/main/java/com/jpm/investment/trade/commands/SumQuantityCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="205" x="1450" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="17">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <realization id="20">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <generalization id="21">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="22">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
