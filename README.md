@@ -19,11 +19,5 @@ Creation of a position is driven by an incoming Trade Event stream. Each event c
 **Trade_UMLClassDaigram :** contains class diagram and relationship hierarchy between command objects path :\src\main\resources\Trade_UMLClassDaigram.jpg
 
 **Output:**
-![image](https://user-images.githubusercontent.com/14830784/138077873-e0597522-6c62-49bb-afa4-f05db3ac8d42.png)
-
 **Unit test:**
-![image](https://user-images.githubusercontent.com/14830784/138077915-3965ea69-1b8a-4aa9-a52a-fcef54644190.png)
-
-
 **File Structure:**
-![image](https://user-images.githubusercontent.com/14830784/138077940-6f1fb98d-04e8-413b-a970-55efc44f3362.png)
